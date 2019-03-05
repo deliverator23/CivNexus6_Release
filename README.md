@@ -1,1 +1,1 @@
-"# CivNexus6_Release" 
+# CivNexus6
